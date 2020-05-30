@@ -1,0 +1,1321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Animal Planet 4K">
+    <display-name lang="pt">Animal Planet 4K</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Tv Aparecida SD">
+    <display-name lang="pt">Tv Aparecida SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band HD 4K">
+    <display-name lang="pt">Band 4K</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports FHD">
+    <display-name lang="pt">Band Sports FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT 4K">
+    <display-name lang="pt">TNT 4K</display-name>
+    <icon src="https://www.lineup.tv.br/canais/tvcentroamerica.gif|https://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canção Nova SD">
+    <display-name lang="pt">Canção Nova SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cartoon Network 4K">
+    <display-name lang="pt">Cartoon Network 4K</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Combate 4K">
+    <display-name lang="pt">Combate 4K</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel 4K">
+    <display-name lang="pt">Discovery Channel 4K</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil 4K">
+    <display-name lang="pt">ESPN Brasil 4K</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2 4K">
+    <display-name lang="pt">Fox Sports 2 4K</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports 4K">
+    <display-name lang="pt">Fox Sports 4K</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Globo 4K">
+    <display-name lang="pt">Globo 4K</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Globo News HD">
+    <display-name lang="pt">Globo News HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix 4K">
+    <display-name lang="pt">Megapix 4K</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1579923780.gif|https://www.lineup.tv.br/canais/gazeta.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Premiere 4K">
+    <display-name lang="pt">Premiere 4K</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record RJ HD">
+    <display-name lang="pt">Record RJ HD</display-name>
+    <icon src="https://www.lineup.tv.br/radios/1580088160.gif|https://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record RJ SD">
+    <display-name lang="pt">Record RJ SD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/nu9ve.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record SP HD">
+    <display-name lang="pt">Record SP HD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/tvmundomaior.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record SP SD">
+    <display-name lang="pt">Record SP SD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1589930887.gif|https://www.lineup.tv.br/canais/1573490506.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede TV 4K">
+    <display-name lang="pt">Rede TV 4K</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV SD">
+    <display-name lang="pt">Rede TV SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede Vida SD">
+    <display-name lang="pt">Rede Vida SD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/natgeokids.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT 4K">
+    <display-name lang="pt">SBT 4K</display-name>
+    <icon src="https://www.lineup.tv.br/canais/tvmeionorte-maranhao.gif|https://www.lineup.tv.br/canais/redemeionorte.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT MA SD">
+    <display-name lang="pt">SBT MA SD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/tvobjetiva.gif|https://www.lineup.tv.br/canais/redeminas.gif|https://www.lineup.tv.br/canais/1574361045.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT PI SD">
+    <display-name lang="pt">SBT PI SD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/foxsports2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Serra Dourada SD">
+    <display-name lang="pt">TV Serra Dourada SD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/rtpi.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SporTV SD">
+    <display-name lang="pt">SporTV SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 4K">
+    <display-name lang="pt">SporTV 4K</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV HD">
+    <display-name lang="pt">SporTV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Escola SD[Brazil]">
+    <display-name lang="pt">TV Escola SD[Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200530003000 -0300" stop="20200530013000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Viva o Esporte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530013000 -0300" stop="20200530030000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530030000 -0300" stop="20200530040000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530040000 -0300" stop="20200530053000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Bola Rolando</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530053000 -0300" stop="20200530060000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Maratona Bandsports</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530060000 -0300" stop="20200530073000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530073000 -0300" stop="20200530080000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Maratona Bandsports</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530080000 -0300" stop="20200530083000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Time dos Sonhos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530083000 -0300" stop="20200530130000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Roland Garros</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530130000 -0300" stop="20200530133000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Ace Bandsports</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530133000 -0300" stop="20200530140000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Estrelas do Tênis</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530140000 -0300" stop="20200530150000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Viva o Esporte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530150000 -0300" stop="20200530170000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Especial Next Gen 2019</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530170000 -0300" stop="20200530183000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Encontro de Craques</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530183000 -0300" stop="20200530190000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Estrelas do Tênis</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530190000 -0300" stop="20200530203000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Especial Next Gen 2019</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530203000 -0300" stop="20200530221500 -0300" channel="Band Sports FHD">
+    <title lang="pt">Especial Next Gen 2019</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530221500 -0300" stop="20200530223000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Sacada do Saretta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530223000 -0300" stop="20200530230000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Estrelas do Tênis</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530230000 -0300" stop="20200531000000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Viva o Esporte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530003000 -0300" stop="20200530023500 -0300" channel="Combate 4K">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Brave 11: Belo Horizonte</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530023500 -0300" stop="20200530030000 -0300" channel="Combate 4K">
+    <title lang="pt">UFC Series: Em casa com o UFC</title>
+    <sub-title lang="pt">Anderson Silva</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530030000 -0300" stop="20200530032000 -0300" channel="Combate 4K">
+    <title lang="pt">UFC Series: Em casa com o UFC</title>
+    <sub-title lang="pt">Thiago Marreta</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530032000 -0300" stop="20200530033000 -0300" channel="Combate 4K">
+    <title lang="pt">Encontro Marco Ruas e Mestre Camisa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530033000 -0300" stop="20200530043000 -0300" channel="Combate 4K">
+    <title lang="pt">Best of Pride</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530043000 -0300" stop="20200530050000 -0300" channel="Combate 4K">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Viver Para Lutar: Boxe (Cuba)</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530050000 -0300" stop="20200530070000 -0300" channel="Combate 4K">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Brave 11: Belo Horizonte</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530070000 -0300" stop="20200530080000 -0300" channel="Combate 4K">
+    <title lang="pt">Especial Combate: UFC Fight Night Combate</title>
+    <sub-title lang="pt">Woodley x Burns</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530080000 -0300" stop="20200530090000 -0300" channel="Combate 4K">
+    <title lang="pt">Giro Combate</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530090000 -0300" stop="20200530105500 -0300" channel="Combate 4K">
+    <title lang="pt">Best of Pride</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530105500 -0300" stop="20200530110500 -0300" channel="Combate 4K">
+    <title lang="pt">Combate Brasil</title>
+    <sub-title lang="pt">Circuito Team Nogueira Viamão 2</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530110500 -0300" stop="20200530115500 -0300" channel="Combate 4K">
+    <title lang="pt">Best of Pride</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530115500 -0300" stop="20200530120500 -0300" channel="Combate 4K">
+    <title lang="pt">Rachel Pennington e Bono, O Cão Surfista</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530120500 -0300" stop="20200530123500 -0300" channel="Combate 4K">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Na Estrada do Jiu-jitsu</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530123500 -0300" stop="20200530133000 -0300" channel="Combate 4K">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Na Estrada do Jiu-jitsu</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530133000 -0300" stop="20200530143000 -0300" channel="Combate 4K">
+    <title lang="pt">Best of Pride</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530143000 -0300" stop="20200530150000 -0300" channel="Combate 4K">
+    <title lang="pt">Giro Combate</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530150000 -0300" stop="20200530160000 -0300" channel="Combate 4K">
+    <title lang="pt">Especial Combate: UFC Fight Night Combate</title>
+    <sub-title lang="pt">Woodley x Burns</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530160000 -0300" stop="20200530163000 -0300" channel="Combate 4K">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Gilbert \</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530163000 -0300" stop="20200530173000 -0300" channel="Combate 4K">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Nascidos Para O Combate: Mackenzie Dern</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530173000 -0300" stop="20200530183000 -0300" channel="Combate 4K">
+    <title lang="pt">Especial Combate: UFC Fight Night Combate</title>
+    <sub-title lang="pt">Woodley x Burns</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530183000 -0300" stop="20200530185000 -0300" channel="Combate 4K">
+    <title lang="pt">Giro Combate</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530185000 -0300" stop="20200530190000 -0300" channel="Combate 4K">
+    <title lang="pt">Aquecimento Combate: UFC Fight Night Combate</title>
+    <sub-title lang="pt">Woodley x Durinho</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530190000 -0300" stop="20200531030000 -0300" channel="Combate 4K">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530002600 -0300" stop="20200530011600 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Ouro Selvagem</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530011600 -0300" stop="20200530020000 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Mulheres na Mina</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530020000 -0300" stop="20200530024900 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530024900 -0300" stop="20200530033800 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530033800 -0300" stop="20200530042700 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Febre do Ouro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530042700 -0300" stop="20200530051500 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Febre do Ouro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530051500 -0300" stop="20200530060300 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Destiladores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530060300 -0300" stop="20200530065800 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Destiladores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530065800 -0300" stop="20200530074500 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Destiladores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530074500 -0300" stop="20200530083200 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">À Prova de Tudo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530083200 -0300" stop="20200530091900 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530091900 -0300" stop="20200530100600 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Sobrevivência ao Limite</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530100600 -0300" stop="20200530105400 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Forças Especiais: O Desafio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530105400 -0300" stop="20200530113800 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Ligação Perigosa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530113800 -0300" stop="20200530122600 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530122600 -0300" stop="20200530131400 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530131400 -0300" stop="20200530140200 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Planeta Azul</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530140200 -0300" stop="20200530145600 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Sete Mundos, Um Planeta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530145600 -0300" stop="20200530154400 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">O Fugitivo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530154400 -0300" stop="20200530163200 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">O Fugitivo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530163200 -0300" stop="20200530172000 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530172000 -0300" stop="20200530180400 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530180400 -0300" stop="20200530185200 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530185200 -0300" stop="20200530194100 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530194100 -0300" stop="20200530203000 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530203000 -0300" stop="20200530211400 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530211400 -0300" stop="20200530220200 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530220200 -0300" stop="20200530222600 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Operação Fronteira</title>
+    <sub-title lang="pt">América do Sul</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530222600 -0300" stop="20200530225000 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Operação Fronteira</title>
+    <sub-title lang="pt">América do Sul</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530225000 -0300" stop="20200530231800 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530231800 -0300" stop="20200530234500 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530234500 -0300" stop="20200531003300 -0300" channel="Discovery Channel 4K">
+    <title lang="pt">As Piores Prisões do Mundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530000000 -0300" stop="20200530010000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Resenha de Casa: Juan Carlos Osorio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530010000 -0300" stop="20200530020000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">El César: Por Cima</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530020000 -0300" stop="20200530030000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Arsenal x Chelsea</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530030000 -0300" stop="20200530040000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Futebol No Mundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530040000 -0300" stop="20200530050000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Sportscenter</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530050000 -0300" stop="20200530070000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Borussia Dortmund x Bayern de Munique</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530070000 -0300" stop="20200530090000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Milan x Inter de Milão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530090000 -0300" stop="20200530100000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Futebol No Mundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530100000 -0300" stop="20200530110000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Resenha de Casa: Juan Carlos Osorio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530110000 -0300" stop="20200530120000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530120000 -0300" stop="20200530130000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Bate-Bola Debate</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530130000 -0300" stop="20200530132000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Abre o Jogo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530132000 -0300" stop="20200530153000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Bayern de Munique x Fortuna Dusseldorf</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530153000 -0300" stop="20200530163000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Futebol no Mundo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530163000 -0300" stop="20200530170000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Especial: A Despedida De Maradona</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530170000 -0300" stop="20200530180000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Futebol na Veia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530180000 -0300" stop="20200530200000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Juventus x Inter</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530200000 -0300" stop="20200530210000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530210000 -0300" stop="20200530220000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Premier League de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530220000 -0300" stop="20200530230000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Bola da Vez: César Grafietti, Analista Financeiro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530230000 -0300" stop="20200531000000 -0300" channel="ESPN Brasil 4K">
+    <title lang="pt">Sportscenter</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530000000 -0300" stop="20200530013000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530013000 -0300" stop="20200530033000 -0300" channel="Globo News HD">
+    <title lang="pt">GloboNews em Pauta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530033000 -0300" stop="20200530040000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530040000 -0300" stop="20200530060000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal das Dez</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530060000 -0300" stop="20200530070000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530070000 -0300" stop="20200530080000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530080000 -0300" stop="20200530100000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530100000 -0300" stop="20200530120000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530120000 -0300" stop="20200530150000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530150000 -0300" stop="20200530180000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530180000 -0300" stop="20200530200000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530200000 -0300" stop="20200530220000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530220000 -0300" stop="20200531000000 -0300" channel="Globo News HD">
+    <title lang="pt">Jornal das Dez</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530003000 -0300" stop="20200530010000 -0300" channel="SporTV SD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530010000 -0300" stop="20200530030000 -0300" channel="SporTV SD">
+    <title lang="pt">Amistoso Internacional de Rugby XV: Brasil x Maori All Blacks</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530030000 -0300" stop="20200530040000 -0300" channel="SporTV SD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x São Caetano</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530040000 -0300" stop="20200530050500 -0300" channel="SporTV SD">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Magny x Ponzinibbio</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530050500 -0300" stop="20200530055500 -0300" channel="SporTV SD">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Ngannou x Blaydes</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530055500 -0300" stop="20200530062500 -0300" channel="SporTV SD">
+    <title lang="pt">Faixa Combate: UFC Fight</title>
+    <sub-title lang="pt">Cigano x Tuivasa</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530062500 -0300" stop="20200530070000 -0300" channel="SporTV SD">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Holloway x Ortega</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530070000 -0300" stop="20200530093000 -0300" channel="SporTV SD">
+    <title lang="pt">Rio Open</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530093000 -0300" stop="20200530110000 -0300" channel="SporTV SD">
+    <title lang="pt">Pré-olímpico de Vôlei Feminino: Brasil x Camarões</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530110000 -0300" stop="20200530120000 -0300" channel="SporTV SD">
+    <title lang="pt">Especial Futsal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530120000 -0300" stop="20200530130000 -0300" channel="SporTV SD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Grêmio</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530130000 -0300" stop="20200530140000 -0300" channel="SporTV SD">
+    <title lang="pt">SporTV Retrô</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530140000 -0300" stop="20200530154500 -0300" channel="SporTV SD">
+    <title lang="pt">Cruzeiro x Atlético MG</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530154500 -0300" stop="20200530160000 -0300" channel="SporTV SD">
+    <title lang="pt">Galeria SporTV</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530160000 -0300" stop="20200530163000 -0300" channel="SporTV SD">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530163000 -0300" stop="20200530170000 -0300" channel="SporTV SD">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530170000 -0300" stop="20200530173000 -0300" channel="SporTV SD">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530173000 -0300" stop="20200530180000 -0300" channel="SporTV SD">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530180000 -0300" stop="20200530203000 -0300" channel="SporTV SD">
+    <title lang="pt">Faixa Especial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530203000 -0300" stop="20200531000000 -0300" channel="SporTV SD">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530003000 -0300" stop="20200530010000 -0300" channel="SporTV 4K">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530010000 -0300" stop="20200530030000 -0300" channel="SporTV 4K">
+    <title lang="pt">Amistoso Internacional de Rugby XV: Brasil x Maori All Blacks</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530030000 -0300" stop="20200530040000 -0300" channel="SporTV 4K">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x São Caetano</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530040000 -0300" stop="20200530050500 -0300" channel="SporTV 4K">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Magny x Ponzinibbio</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530050500 -0300" stop="20200530055500 -0300" channel="SporTV 4K">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Ngannou x Blaydes</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530055500 -0300" stop="20200530062500 -0300" channel="SporTV 4K">
+    <title lang="pt">Faixa Combate: UFC Fight</title>
+    <sub-title lang="pt">Cigano x Tuivasa</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530062500 -0300" stop="20200530070000 -0300" channel="SporTV 4K">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Holloway x Ortega</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530070000 -0300" stop="20200530093000 -0300" channel="SporTV 4K">
+    <title lang="pt">Rio Open</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530093000 -0300" stop="20200530110000 -0300" channel="SporTV 4K">
+    <title lang="pt">Pré-olímpico de Vôlei Feminino: Brasil x Camarões</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530110000 -0300" stop="20200530120000 -0300" channel="SporTV 4K">
+    <title lang="pt">Especial Futsal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530120000 -0300" stop="20200530130000 -0300" channel="SporTV 4K">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Grêmio</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530130000 -0300" stop="20200530140000 -0300" channel="SporTV 4K">
+    <title lang="pt">SporTV Retrô</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530140000 -0300" stop="20200530154500 -0300" channel="SporTV 4K">
+    <title lang="pt">Cruzeiro x Atlético MG</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530154500 -0300" stop="20200530160000 -0300" channel="SporTV 4K">
+    <title lang="pt">Galeria SporTV</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530160000 -0300" stop="20200530163000 -0300" channel="SporTV 4K">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530163000 -0300" stop="20200530170000 -0300" channel="SporTV 4K">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530170000 -0300" stop="20200530173000 -0300" channel="SporTV 4K">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530173000 -0300" stop="20200530180000 -0300" channel="SporTV 4K">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530180000 -0300" stop="20200530203000 -0300" channel="SporTV 4K">
+    <title lang="pt">Faixa Especial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530203000 -0300" stop="20200531000000 -0300" channel="SporTV 4K">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530003000 -0300" stop="20200530010000 -0300" channel="SporTV HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530010000 -0300" stop="20200530030000 -0300" channel="SporTV HD">
+    <title lang="pt">Amistoso Internacional de Rugby XV: Brasil x Maori All Blacks</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530030000 -0300" stop="20200530040000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x São Caetano</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530040000 -0300" stop="20200530050500 -0300" channel="SporTV HD">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Magny x Ponzinibbio</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530050500 -0300" stop="20200530055500 -0300" channel="SporTV HD">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Ngannou x Blaydes</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530055500 -0300" stop="20200530062500 -0300" channel="SporTV HD">
+    <title lang="pt">Faixa Combate: UFC Fight</title>
+    <sub-title lang="pt">Cigano x Tuivasa</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530062500 -0300" stop="20200530070000 -0300" channel="SporTV HD">
+    <title lang="pt">Faixa Combate: Ufc</title>
+    <sub-title lang="pt">Holloway x Ortega</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530070000 -0300" stop="20200530093000 -0300" channel="SporTV HD">
+    <title lang="pt">Rio Open</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530093000 -0300" stop="20200530110000 -0300" channel="SporTV HD">
+    <title lang="pt">Pré-olímpico de Vôlei Feminino: Brasil x Camarões</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530110000 -0300" stop="20200530120000 -0300" channel="SporTV HD">
+    <title lang="pt">Especial Futsal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530120000 -0300" stop="20200530130000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Grêmio</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530130000 -0300" stop="20200530140000 -0300" channel="SporTV HD">
+    <title lang="pt">SporTV Retrô</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530140000 -0300" stop="20200530154500 -0300" channel="SporTV HD">
+    <title lang="pt">Cruzeiro x Atlético MG</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530154500 -0300" stop="20200530160000 -0300" channel="SporTV HD">
+    <title lang="pt">Galeria SporTV</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530160000 -0300" stop="20200530163000 -0300" channel="SporTV HD">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530163000 -0300" stop="20200530170000 -0300" channel="SporTV HD">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530170000 -0300" stop="20200530173000 -0300" channel="SporTV HD">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530173000 -0300" stop="20200530180000 -0300" channel="SporTV HD">
+    <title lang="pt">Futebol de Casa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530180000 -0300" stop="20200530203000 -0300" channel="SporTV HD">
+    <title lang="pt">Faixa Especial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530203000 -0300" stop="20200531000000 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530104500 -0300" stop="20200530110000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Zou</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200530110000 -0300" stop="20200530111500 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">As Chaves de Mardum</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200530111500 -0300" stop="20200530113000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">As Chaves de Mardum</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200530113000 -0300" stop="20200530120000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Rádio Porão</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530120000 -0300" stop="20200530123000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Deu a Louca na História</title>
+    <category lang="pt">Séries/Histórica</category>
+  </programme>
+  <programme start="20200530123000 -0300" stop="20200530130000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Incluídos: Trabalhando Sem Preconceitos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200530130000 -0300" stop="20200530133000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Hora do Enem</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530133000 -0300" stop="20200530140000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Hora do Enem</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530140000 -0300" stop="20200530143000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Hora do Enem</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530143000 -0300" stop="20200530150000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Hora do Enem</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530150000 -0300" stop="20200530153000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Hora do Enem</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530153000 -0300" stop="20200530160000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Tecnopop</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530160000 -0300" stop="20200530163000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Leituras</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20200530163000 -0300" stop="20200530170000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Inclusive Você: Educação Superior</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200530170000 -0300" stop="20200530173000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Saber Mais</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530173000 -0300" stop="20200530180000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Conhecendo Museus</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20200530180000 -0300" stop="20200530183000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Trabalhos Com História</title>
+    <category lang="pt">Documentário/Cultural</category>
+  </programme>
+  <programme start="20200530183000 -0300" stop="20200530190000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Ao Pé da Letra - Alunos</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530190000 -0300" stop="20200530191000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Agentes De Transformação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200530191000 -0300" stop="20200530191500 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Missão Ciência</title>
+    <category lang="pt">Variedades/Meio Ambiente</category>
+  </programme>
+  <programme start="20200530191500 -0300" stop="20200530193000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Cientista Por Um Dia</title>
+    <category lang="pt">Séries/Ciência</category>
+  </programme>
+  <programme start="20200530193000 -0300" stop="20200530200000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Mulheres De Macacão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200530200000 -0300" stop="20200530204000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Plano Sequência</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530204000 -0300" stop="20200530210000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Sem Noção</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200530210000 -0300" stop="20200530220000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Não Entre em Pânico: A Verdade Sobre o Aumento Populacional</title>
+    <category lang="pt">Documentário/Educativo</category>
+  </programme>
+  <programme start="20200530220000 -0300" stop="20200530230000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Qi: A História de Uma Farsa</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200530230000 -0300" stop="20200531000000 -0300" channel="TV Escola SD[Brazil]">
+    <title lang="pt">Meu País, Nosso Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+</tv>
