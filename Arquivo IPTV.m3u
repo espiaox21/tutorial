@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 ,Animal Planet 4k
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31323
+#EXTINF:-1 ,BAND 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31324
+#EXTINF:-1 ,BAND SPORTS FHD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/32890
+#EXTINF:-1 group-title="Portuguese",Can��o Nova SD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1 ,CARTOON 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31325
+#EXTINF:-1 ,Combate 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31326
+#EXTINF:-1 ,Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 ,DIscovery Channel 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31327
+#EXTINF:-1 group-title="TV Musicas",DJ Hits SD
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1 ,E-PARANA SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10702
+#EXTINF:-1 ,ESPN 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31328
+#EXTINF:-1 ,FOX Sports 2 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31329
+#EXTINF:-1 ,FOX Sports 2 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31329
+#EXTINF:-1 ,FOX SPORTS 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31330
+#EXTINF:-1 ,FOX SPORTS 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31330
+#EXTINF:-1 ,Globo 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31322
+#EXTINF:-1 ,Globo News HD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/32892
+#EXTINF:-1 group-title="Portuguese",Jovem Pan SD
+http://ja-streamlink.mooo.com/jp/stream.m3u8
+#EXTINF:-1 ,M2O SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10703
+#EXTINF:-1 ,MEGAPIX 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31331
+#EXTINF:-1 ,National Geographic 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31333
+#EXTINF:-1 group-title="TV Musicas",ONE 1 HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="TV Musicas",ONE 4 HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="TV Musicas",ONE SD
+http://rtmp.one.by:1200
+#EXTINF:-1 ,Premiere 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31334
+#EXTINF:-1 ,Premiere 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31334
+#EXTINF:-1 group-title="TV ABERTA",Record RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 group-title="TV ABERTA",RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 group-title="TV ABERTA",RECORD SP SD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+#EXTINF:-1 ,Rede TV
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/36653
+#EXTINF:-1 ,Rede TV 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31335
+#EXTINF:-1 ,Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Musicas",Retro Music SD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,SBT 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31336
+#EXTINF:-1 group-title="TV ABERTA",SBT MA SD
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",SBT PI SD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 group-title="Portuguese",Serra Dourada SD
+https://5a7bcfb834235.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 ,SPORT TV 1 SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/35035
+#EXTINF:-1 ,SPORTV 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31337
+#EXTINF:-1 ,SPORTV 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31337
+#EXTINF:-1 ,SPORTV HD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/29276
+#EXTINF:-1 ,Summer SD
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TNT 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31338
+#EXTINF:-1 ,Tv Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portuguese",TV Escola
+https://video-rvd-lmg.rnp.br/live/ocp(t(FfZfeFx3QG4)r(TOqkzw)a(ut273w)p(d(lCo)k(ow4)m(U1zbeMZOcvuVp_PjPC5VeA)n(a(-xL_Aw)s(yeg)'a(vuk2sg)s(3Rc)))s(s(2h8)b(OVsX9brZ0psZeMaQYt9O46THOxFsPHFB6R_YrLO_lAYLehFKlBcB3utUOhZjyWY7C52ngNY4Ow9Ook29TA)'s(gRY)b(iE9B80a6sOKUZn0UnLJQU_bKwqIDP29GWBxvJz1bQ1ihEmrOuDaUGTinW0l8unt4U9_v4jCwiAC2T6TOa8pgVRIAfsnYG9Y7VoI5EmwQ)'s(A4Q)b(ayZ0dwLn))m(0))/index.m3u8
